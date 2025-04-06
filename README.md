@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @vijaydev43
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Bloc
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @vijaydev43
+👀 I’m interested in ... Coding, caffeine, and pretending I understand regex
+🌱 I’m currently learning ... Bloc, and how to survive without accidentally deleting my entire codebase
+💞️ I’m looking to collaborate on ... Anything that doesn’t involve me debugging someone else’s spaghetti code
+📫 How to reach me ... vijaydeva342@gmail.com 
+😄 Pronouns: ... Ctrl / Alt / Delete
+⚡ Fun fact: ... I once wrote a “Hello World” program that crashed my fridge
 
 <!---
 vijaydev43/vijaydev43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
